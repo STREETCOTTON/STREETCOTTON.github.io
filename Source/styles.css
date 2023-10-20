@@ -199,7 +199,8 @@ a:hover {
 .solution-card-2 {
     box-sizing: border-box; 
     text-align: center;
-    width: calc(50% - 20px); 
+    /*width: calc(50% - 20px);*/
+    width: calc(100%); 
     margin-bottom: 20px;
     border: 1px solid #ddd;
     background-color: #fff;
